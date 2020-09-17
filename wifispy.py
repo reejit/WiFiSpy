@@ -2,7 +2,6 @@
 import sys
 from optparse import OptionParser, OptionGroup
 import optparse
-from colorama import Style, Fore
 import os
 import sys
 import datetime
